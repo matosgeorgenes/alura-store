@@ -1,2 +1,2 @@
-# alura_store
+# alura-store
 Página de site e aplicativos.
